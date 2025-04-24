@@ -170,7 +170,7 @@ Note: All tickets will inherit the core functionality including:
 
 For support, issues, or contributions:
 - Create an issue in the repository
-- Join our Discord: https://discord.gg/WkCuKBjTZt
+- Join our Discord: https://discord.gg/MeU4xjPsWU
 
 ## License
 

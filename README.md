@@ -1,4 +1,4 @@
-# BanditBot Qbox Discord Bot
+# BanditBot qbox-QB-esx-Discord Bot OverX 2025
 
 A specialized Discord bot built for FiveM QBox servers, providing comprehensive ticket management, player information tracking, and moderation tools integration with txAdmin.
 
